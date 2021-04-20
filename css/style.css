@@ -1,0 +1,22 @@
+
+.nav{
+    height: 75px;
+    background-color: green;
+}
+.lefty {
+    background-color: lightgreen;
+}
+.righty {
+    background-color: darkgreen
+}
+.main-row {
+    height: 2000px;
+    font-size: 20px;
+}
+footer {
+   
+    height: 100px;
+    color: black;
+    background-color: chartreuse;
+     width: 100%;
+}
